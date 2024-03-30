@@ -20,16 +20,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto de I.A da DIO com I.As generativas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Acessei um site chamado VEED onde há funções como, audio. tradução, avatares, fundos de tela e Edições, tudo através de I.As, e fui usando a criatividae
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Site VEED; Gerador de imagens do Microsoft Edge
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiramnte cirei a imagem no Gerador de imagens do Edge, segundamente entrei no Site VEED.com e usei a criatvidade
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
